@@ -7,7 +7,7 @@ This project showcases my skills, projects, and experience as an **AI & Machine 
 
 ## 🚀 Live Demo
 
-🔗 https://your-vercel-link.vercel.app
+🔗 https://priyanshupathekar-three.vercel.app/
 
 ---
 
